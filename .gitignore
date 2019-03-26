@@ -1,0 +1,15 @@
+node_modules/*
+package-lock.json
+.idea/*
+.npm
+*.tgz
+.env
+.cache
+dist/
+sdist/
+wheels/
+*.egg-info/
+*.egg
+.venv
+env/
+venv/
